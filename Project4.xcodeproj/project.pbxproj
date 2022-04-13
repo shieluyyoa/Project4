@@ -16,6 +16,7 @@
 		06B647CF27B6CC150074259A /* Project4Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B647CE27B6CC150074259A /* Project4Tests.swift */; };
 		06B647D927B6CC150074259A /* Project4UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B647D827B6CC150074259A /* Project4UITests.swift */; };
 		06B647DB27B6CC150074259A /* Project4UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B647DA27B6CC150074259A /* Project4UITestsLaunchTests.swift */; };
+		06B647E827BBDE760074259A /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B647E727BBDE760074259A /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		06B647D427B6CC150074259A /* Project4UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Project4UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		06B647D827B6CC150074259A /* Project4UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project4UITests.swift; sourceTree = "<group>"; };
 		06B647DA27B6CC150074259A /* Project4UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project4UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		06B647E727BBDE760074259A /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				06B647B727B6CC130074259A /* AppDelegate.swift */,
 				06B647B927B6CC130074259A /* SceneDelegate.swift */,
 				06B647BB27B6CC130074259A /* ViewController.swift */,
+				06B647E727BBDE760074259A /* TableViewController.swift */,
 				06B647BD27B6CC130074259A /* Main.storyboard */,
 				06B647C027B6CC150074259A /* Assets.xcassets */,
 				06B647C227B6CC150074259A /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				06B647BC27B6CC130074259A /* ViewController.swift in Sources */,
 				06B647B827B6CC130074259A /* AppDelegate.swift in Sources */,
 				06B647BA27B6CC130074259A /* SceneDelegate.swift in Sources */,
+				06B647E827BBDE760074259A /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
